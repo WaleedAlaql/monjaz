@@ -1,0 +1,5 @@
+package com.monjaz.enums;
+
+public enum TaskStatus {
+    PENDING, IN_PROGRESS, COMPLETED, OVERDUE
+}
